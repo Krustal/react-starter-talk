@@ -2,3 +2,4 @@ tictac/node_modules/
 tictac/public/main.bundle.js
 tictac/public/debugging
 .DS_Store
+npm-debug.log
