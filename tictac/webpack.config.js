@@ -2,7 +2,7 @@ var webpack = require('webpack');
 
 module.exports = {
   entry: {
-    main: __dirname + "/src/main.js"
+    main: [__dirname + "/src/main.js"]
   },
   debug: true,
   devtool: 'source-map',
